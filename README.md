@@ -37,5 +37,5 @@ Below is a simple flow for the user experience on PostIt:
 
 ## Author
 
-**Salmon:** [Github](https://github.com/SalmonMbuchi) / [LinkedIn](https://www.linkedin.com/in/salmon-mbuchi/)
+**Linet:** [Github](https://github.com/Linet-001)
 
